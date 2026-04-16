@@ -1,0 +1,11 @@
+{
+  "name": "vercel-pair-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node api/pair.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.16.2"
+  }
+}
